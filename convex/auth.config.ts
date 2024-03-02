@@ -1,7 +1,7 @@
 export default {
     providers: [
         {
-            domain: "https://capable-hagfish-6.clerk.accounts.dev",
+            domain: "https://concise-stork-19.clerk.accounts.dev",
             applicationID: "convex",
         },
     ]
